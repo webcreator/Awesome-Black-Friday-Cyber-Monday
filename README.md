@@ -117,6 +117,8 @@ Total deals: 180
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
 | 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 | 🤑 | [Enconvo](https://enconvo.com) | The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
+| 💰 | [GrammarBot](https://grammarbot.webcreator.ws/) | Al Grammar checks, message rewrites
+and style transformations. | Get 30% off with discount code **`BLACKFRIDAY2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -235,7 +237,7 @@ Total deals: 180
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 | 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
 | 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
-
+| 🤑 | [100 Best AI Apps](https://100apps.org/) | Directory of 100 Best AI Apps | 50% off on first month subscription **blackfriday50**
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
